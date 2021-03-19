@@ -13,3 +13,5 @@ Point 5 : Creat a folder called .ebextensions
 Point 6 : Inside .ebextensions we need a python.config file.
 
 Point 7 :  Mention the commands in python.config
+
+App Deployment link : http://linearregressionapp-env.eba-p3mnmhx2.us-east-2.elasticbeanstalk.com/
